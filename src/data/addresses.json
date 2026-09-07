@@ -1,0 +1,41 @@
+[
+  {
+    "id": "addr_01",
+    "name": "Aryan Sharma",
+    "mobile": "9876543210",
+    "houseFlat": "Flat 402, Prestige Elmhurst",
+    "street": "14th Main Road, Sector 4",
+    "area": "HSR Layout",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560102",
+    "type": "Home",
+    "isDefault": true
+  },
+  {
+    "id": "addr_02",
+    "name": "Aryan Sharma",
+    "mobile": "9876543210",
+    "houseFlat": "Suite 5B, Innov8 Coworking",
+    "street": "100 Feet Road",
+    "area": "Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "type": "Work",
+    "isDefault": false
+  },
+  {
+    "id": "addr_03",
+    "name": "Aryan Sharma",
+    "mobile": "9876543210",
+    "houseFlat": "A-1204, Sea Green Heights",
+    "street": "Worli Sea Face",
+    "area": "Worli",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400030",
+    "type": "Other",
+    "isDefault": false
+  }
+]

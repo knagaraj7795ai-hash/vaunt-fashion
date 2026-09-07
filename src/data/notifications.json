@@ -1,0 +1,44 @@
+[
+  {
+    "id": "notif_01",
+    "category": "Orders",
+    "title": "Out for Delivery!",
+    "message": "Your order VNT-8921-2026 is out for delivery with our executive Rajesh Kumar.",
+    "timestamp": "10 mins ago",
+    "read": false,
+    "actionRoute": "OrderTracking",
+    "actionParams": { "orderId": "ord_vnt_8921" },
+    "icon": "bicycle-outline"
+  },
+  {
+    "id": "notif_02",
+    "category": "Offers",
+    "title": "Weekend Flash Sale ⚡",
+    "message": "Use code FESTIVE20 to enjoy an extra 20% off on premium tailored shirts & dresses.",
+    "timestamp": "2 hours ago",
+    "read": false,
+    "actionRoute": "Offers",
+    "icon": "pricetag-outline"
+  },
+  {
+    "id": "notif_03",
+    "category": "Drops",
+    "title": "New Season Arrival: Zephyr Denim",
+    "message": "Explore the newly launched Japanese raw selvedge collection crafted for lifetime wear.",
+    "timestamp": "1 day ago",
+    "read": true,
+    "actionRoute": "ProductListing",
+    "actionParams": { "brandId": "brand_zephyr", "title": "Zephyr Denim" },
+    "icon": "sparkles-outline"
+  },
+  {
+    "id": "notif_04",
+    "category": "Offers",
+    "title": "Welcome Gift Unlocked 🎁",
+    "message": "Apply code FIRSTORDER to get flat ₹200 off your next curated cart.",
+    "timestamp": "3 days ago",
+    "read": true,
+    "actionRoute": "Offers",
+    "icon": "gift-outline"
+  }
+]

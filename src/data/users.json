@@ -1,0 +1,12 @@
+{
+  "id": "user_vaunt_01",
+  "name": "Aryan Sharma",
+  "email": "aryan.sharma@example.in",
+  "phone": "+91 98765 43210",
+  "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80",
+  "joinedDate": "January 2025",
+  "loyaltyTier": "VAUNT Black",
+  "loyaltyPoints": 1450,
+  "gender": "Male",
+  "dob": "1997-08-14"
+}

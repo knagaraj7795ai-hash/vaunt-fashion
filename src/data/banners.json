@@ -1,0 +1,52 @@
+[
+  {
+    "id": "banner_1",
+    "title": "AUTUMN / WINTER '26",
+    "subtitle": "Architectural layering & contemporary outerwear",
+    "tag": "NEW SEASON",
+    "discountText": "UP TO 50% OFF",
+    "imageUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1000&auto=format&fit=crop&q=80",
+    "tagFilter": "new-season",
+    "backgroundColor": "#0F172A"
+  },
+  {
+    "id": "banner_2",
+    "title": "THE RESORT LINEN EDIT",
+    "subtitle": "Relaxed French flax shirts & wide leg trousers",
+    "tag": "WEEKEND STYLES",
+    "discountText": "FLAT 40% OFF",
+    "imageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=1000&auto=format&fit=crop&q=80",
+    "categoryId": "cat_men",
+    "backgroundColor": "#1E293B"
+  },
+  {
+    "id": "banner_3",
+    "title": "URBAN CHUNKY SNEAKERS",
+    "subtitle": "Engineered comfort meets statement street silhouettes",
+    "tag": "TRENDING NOW",
+    "discountText": "STARTING ₹1,499",
+    "imageUrl": "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=1000&auto=format&fit=crop&q=80",
+    "categoryId": "cat_footwear",
+    "backgroundColor": "#2563EB"
+  },
+  {
+    "id": "banner_4",
+    "title": "FESTIVE & COUTURE",
+    "subtitle": "Hand-embossed silks, woven kurtas & modern draping",
+    "tag": "FESTIVE EDIT",
+    "discountText": "UP TO 60% OFF",
+    "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=1000&auto=format&fit=crop&q=80",
+    "categoryId": "cat_women",
+    "backgroundColor": "#4F46E5"
+  },
+  {
+    "id": "banner_5",
+    "title": "EVERYDAY ESSENTIALS",
+    "subtitle": "Heavyweight 240 GSM organic cotton tees",
+    "tag": "UNDER ₹999",
+    "discountText": "FLAT ₹799",
+    "imageUrl": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=1000&auto=format&fit=crop&q=80",
+    "tagFilter": "under-999",
+    "backgroundColor": "#059669"
+  }
+]

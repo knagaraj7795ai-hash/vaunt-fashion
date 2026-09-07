@@ -1,0 +1,220 @@
+[
+  {
+    "id": "ord_vnt_8921",
+    "orderNumber": "VNT-8921-2026",
+    "createdAt": "2026-09-02T10:30:00Z",
+    "status": "Out for Delivery",
+    "items": [
+      {
+        "id": "item_8921_1",
+        "productId": "prod_men_01",
+        "product": {
+          "id": "prod_men_01",
+          "brandId": "brand_vaunt",
+          "brandName": "VAUNT Studio",
+          "categoryId": "cat_men",
+          "subCategoryId": "sub_men_tshirts",
+          "name": "Heavyweight Oversized Drop-Shoulder Tee",
+          "price": 899,
+          "originalPrice": 1799,
+          "discount": 50,
+          "rating": 4.8,
+          "reviewCount": 128,
+          "images": [
+            "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80"
+          ],
+          "colors": [{ "name": "Charcoal Black", "hex": "#1E293B" }],
+          "sizes": ["M", "L", "XL"],
+          "inStockSizes": ["M", "L", "XL"],
+          "material": "100% Combed Heavy Cotton (240 GSM)",
+          "fit": "Oversized",
+          "occasion": "Casual",
+          "gender": "men",
+          "specifications": [
+            { "label": "Fabric", "value": "Pure Cotton" },
+            { "label": "Fit", "value": "Oversized Fit" }
+          ],
+          "careInstructions": ["Machine wash cold"],
+          "tags": ["trending", "best-seller"],
+          "isNew": false,
+          "isBestSeller": true,
+          "isTrending": true,
+          "stock": 45,
+          "available": true,
+          "deliveryDays": 2,
+          "returnWindowDays": 14,
+          "description": "Premium 240 GSM drop shoulder tee crafted from combed organic cotton."
+        },
+        "selectedSize": "L",
+        "selectedColor": { "name": "Charcoal Black", "hex": "#1E293B" },
+        "quantity": 1,
+        "addedAt": "2026-09-02T10:25:00Z"
+      }
+    ],
+    "shippingAddress": {
+      "id": "addr_01",
+      "name": "Aryan Sharma",
+      "mobile": "9876543210",
+      "houseFlat": "Flat 402, Prestige Elmhurst",
+      "street": "14th Main Road, Sector 4",
+      "area": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560102",
+      "type": "Home",
+      "isDefault": true
+    },
+    "paymentMethod": "UPI",
+    "paymentStatus": "Paid",
+    "deliverySpeed": "Express",
+    "estimatedDelivery": "Today by 7:00 PM",
+    "summary": {
+      "mrpTotal": 1799,
+      "discountTotal": 900,
+      "couponDiscount": 0,
+      "deliveryFee": 0,
+      "platformFee": 20,
+      "totalAmount": 919
+    },
+    "trackingSteps": [
+      {
+        "status": "Order Placed",
+        "title": "Order Placed & Verified",
+        "description": "Payment confirmed via UPI",
+        "timestamp": "02 Sep 2026, 10:30 AM",
+        "completed": true,
+        "isCurrent": false
+      },
+      {
+        "status": "Confirmed",
+        "title": "Order Confirmed by VAUNT Studio",
+        "description": "Item allocated at Bengaluru Fulfilment Center",
+        "timestamp": "02 Sep 2026, 11:15 AM",
+        "completed": true,
+        "isCurrent": false
+      },
+      {
+        "status": "Packed",
+        "title": "Packed in Sustainable Box",
+        "description": "Eco-luxe sleeve and security seal applied",
+        "timestamp": "02 Sep 2026, 03:40 PM",
+        "completed": true,
+        "isCurrent": false
+      },
+      {
+        "status": "Shipped",
+        "title": "Shipped via BlueDart Express",
+        "description": "AWB: BD789123405IN",
+        "timestamp": "03 Sep 2026, 06:20 AM",
+        "completed": true,
+        "isCurrent": false
+      },
+      {
+        "status": "Out for Delivery",
+        "title": "Out for Delivery",
+        "description": "Delivery executive Rajesh Kumar is en route",
+        "timestamp": "07 Sep 2026, 09:30 AM",
+        "completed": true,
+        "isCurrent": true
+      },
+      {
+        "status": "Delivered",
+        "title": "Delivery Pending",
+        "description": "Will be delivered by 7:00 PM",
+        "timestamp": "Expected Today",
+        "completed": false,
+        "isCurrent": false
+      }
+    ],
+    "canCancel": false
+  },
+  {
+    "id": "ord_vnt_7419",
+    "orderNumber": "VNT-7419-2026",
+    "createdAt": "2026-08-15T14:10:00Z",
+    "status": "Delivered",
+    "items": [
+      {
+        "id": "item_7419_1",
+        "productId": "prod_footwear_01",
+        "product": {
+          "id": "prod_footwear_01",
+          "brandId": "brand_vaunt",
+          "brandName": "VAUNT Studio",
+          "categoryId": "cat_footwear",
+          "subCategoryId": "sub_footwear_sneakers",
+          "name": "Apex Minimalist Leather Court Sneakers",
+          "price": 2799,
+          "originalPrice": 4999,
+          "discount": 44,
+          "rating": 4.9,
+          "reviewCount": 164,
+          "images": [
+            "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop&q=80"
+          ],
+          "colors": [{ "name": "Chalk White", "hex": "#F8FAFC" }],
+          "sizes": ["UK 8", "UK 9", "UK 10"],
+          "inStockSizes": ["UK 8", "UK 9", "UK 10"],
+          "material": "Top-Grain Italian Nappa Leather",
+          "fit": "Regular",
+          "occasion": "Casual",
+          "gender": "men",
+          "specifications": [
+            { "label": "Sole Material", "value": "Vulcanized Rubber" },
+            { "label": "Fastening", "value": "Lace-Up" }
+          ],
+          "careInstructions": ["Wipe with damp cloth"],
+          "tags": ["trending", "best-seller"],
+          "isNew": false,
+          "isBestSeller": true,
+          "isTrending": true,
+          "stock": 25,
+          "available": true,
+          "deliveryDays": 3,
+          "returnWindowDays": 14,
+          "description": "Handcrafted court sneakers in buttery soft nappa leather."
+        },
+        "selectedSize": "UK 9",
+        "selectedColor": { "name": "Chalk White", "hex": "#F8FAFC" },
+        "quantity": 1,
+        "addedAt": "2026-08-15T14:00:00Z"
+      }
+    ],
+    "shippingAddress": {
+      "id": "addr_01",
+      "name": "Aryan Sharma",
+      "mobile": "9876543210",
+      "houseFlat": "Flat 402, Prestige Elmhurst",
+      "street": "14th Main Road, Sector 4",
+      "area": "HSR Layout",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560102",
+      "type": "Home",
+      "isDefault": true
+    },
+    "paymentMethod": "Credit/Debit Card",
+    "paymentStatus": "Paid",
+    "deliverySpeed": "Standard",
+    "estimatedDelivery": "18 Aug 2026",
+    "actualDelivery": "18 Aug 2026, 04:12 PM",
+    "summary": {
+      "mrpTotal": 4999,
+      "discountTotal": 2200,
+      "couponDiscount": 200,
+      "couponCode": "FIRSTORDER",
+      "deliveryFee": 0,
+      "platformFee": 20,
+      "totalAmount": 2619
+    },
+    "trackingSteps": [
+      { "status": "Order Placed", "title": "Order Placed", "description": "Paid ₹2,619", "timestamp": "15 Aug, 02:10 PM", "completed": true, "isCurrent": false },
+      { "status": "Confirmed", "title": "Confirmed", "description": "Processed", "timestamp": "15 Aug, 03:00 PM", "completed": true, "isCurrent": false },
+      { "status": "Packed", "title": "Packed", "description": "Handed to courier", "timestamp": "16 Aug, 10:00 AM", "completed": true, "isCurrent": false },
+      { "status": "Shipped", "title": "Shipped", "description": "In Transit", "timestamp": "16 Aug, 04:00 PM", "completed": true, "isCurrent": false },
+      { "status": "Out for Delivery", "title": "Out for Delivery", "description": "Delivered locally", "timestamp": "18 Aug, 09:00 AM", "completed": true, "isCurrent": false },
+      { "status": "Delivered", "title": "Delivered Successfully", "description": "Received by Aryan Sharma", "timestamp": "18 Aug, 04:12 PM", "completed": true, "isCurrent": true }
+    ],
+    "canCancel": false
+  }
+]

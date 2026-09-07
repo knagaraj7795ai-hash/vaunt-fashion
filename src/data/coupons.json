@@ -1,0 +1,50 @@
+[
+  {
+    "code": "FIRSTORDER",
+    "title": "Welcome Discount",
+    "description": "Flat ₹200 off on your first purchase with VAUNT.",
+    "discountType": "flat",
+    "discountValue": 200,
+    "minimumOrder": 999,
+    "expiryDate": "2027-12-31"
+  },
+  {
+    "code": "NEWUSER",
+    "title": "New Member 15% Off",
+    "description": "15% discount on all clothing & footwear for new shoppers.",
+    "discountType": "percentage",
+    "discountValue": 15,
+    "minimumOrder": 1499,
+    "maximumDiscount": 600,
+    "expiryDate": "2027-12-31"
+  },
+  {
+    "code": "FESTIVE20",
+    "title": "Festive Celebration 20% Off",
+    "description": "Get 20% off on premium ethnic & formal collections.",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "minimumOrder": 2499,
+    "maximumDiscount": 1000,
+    "expiryDate": "2027-10-30"
+  },
+  {
+    "code": "SAVE500",
+    "title": "Mega Savings ₹500 Off",
+    "description": "Flat ₹500 off on orders of ₹2,999 or more.",
+    "discountType": "flat",
+    "discountValue": 500,
+    "minimumOrder": 2999,
+    "expiryDate": "2027-11-15"
+  },
+  {
+    "code": "VAUNT10",
+    "title": "Everyday 10% Off",
+    "description": "10% instant discount on orders above ₹1,199.",
+    "discountType": "percentage",
+    "discountValue": 10,
+    "minimumOrder": 1199,
+    "maximumDiscount": 400,
+    "expiryDate": "2027-12-31"
+  }
+]

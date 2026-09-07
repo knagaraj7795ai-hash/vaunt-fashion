@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rev_01",
+    "productId": "prod_men_01",
+    "userName": "Rohan Mehta",
+    "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "title": "Exceptional fabric and drape!",
+    "comment": "The 240 GSM organic cotton feels substantial yet breathable. Washed it three times and the collar holds its shape perfectly. Definitely getting two more colors.",
+    "date": "18 Aug 2026",
+    "verifiedPurchase": true,
+    "helpfulCount": 42,
+    "sizeBought": "L"
+  },
+  {
+    "id": "rev_02",
+    "productId": "prod_men_01",
+    "userName": "Vikram Sen",
+    "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+    "rating": 4,
+    "title": "Great boxy streetwear silhouette",
+    "comment": "Fit is true to size if you want that relaxed oversized drop-shoulder vibe. Premium packaging as well.",
+    "date": "04 Aug 2026",
+    "verifiedPurchase": true,
+    "helpfulCount": 19,
+    "sizeBought": "M"
+  },
+  {
+    "id": "rev_03",
+    "productId": "prod_women_01",
+    "userName": "Ananya Roy",
+    "userAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "title": "Stunning floral print & flawless stitching",
+    "comment": "Wore this to a brunch and received non-stop compliments. The waist tie gives a flattering cinch, and the fabric doesn't wrinkle easily.",
+    "date": "22 Aug 2026",
+    "verifiedPurchase": true,
+    "helpfulCount": 68,
+    "sizeBought": "S"
+  },
+  {
+    "id": "rev_04",
+    "productId": "prod_footwear_01",
+    "userName": "Karan Singhania",
+    "userAvatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "title": "Comfort comparable to high-end designer sneakers",
+    "comment": "Cushioned memory foam insole makes all-day walking effortless. The leather quality is buttery smooth. Highly recommended.",
+    "date": "12 Aug 2026",
+    "verifiedPurchase": true,
+    "helpfulCount": 35,
+    "sizeBought": "UK 9"
+  },
+  {
+    "id": "rev_05",
+    "productId": "prod_acc_01",
+    "userName": "Dev Malhotra",
+    "userAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&auto=format&fit=crop&q=80",
+    "rating": 5,
+    "title": "Timeless minimalist dial",
+    "comment": "Matte black case with sapphire crystal coating at this price is exceptional value. The leather strap is genuine and softens gracefully within a week.",
+    "date": "29 Jul 2026",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  }
+]

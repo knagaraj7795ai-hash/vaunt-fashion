@@ -1,0 +1,74 @@
+[
+  {
+    "id": "brand_vaunt",
+    "name": "VAUNT Studio",
+    "logo": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Modern luxury essentials designed for everyday distinction.",
+    "rating": 4.8,
+    "productCount": 142,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_monochrome",
+    "name": "Monochrome Atelier",
+    "logo": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Architectural tailoring in timeless neutral palettes.",
+    "rating": 4.7,
+    "productCount": 89,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_zephyr",
+    "name": "Zephyr Denim",
+    "logo": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Artisanal selvedge denim woven for superior durability.",
+    "rating": 4.6,
+    "productCount": 64,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_solis",
+    "name": "Solis Active",
+    "logo": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=200&auto=format&fit=crop&q=80",
+    "tagline": "High-performance breathable technical wear.",
+    "rating": 4.9,
+    "productCount": 78,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_vero",
+    "name": "Vero Linen",
+    "logo": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=200&auto=format&fit=crop&q=80",
+    "tagline": "100% French flax linen for relaxed resort living.",
+    "rating": 4.7,
+    "productCount": 52,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_nocturne",
+    "name": "Nocturne",
+    "logo": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Statement jackets, evening silks, and moody edge.",
+    "rating": 4.8,
+    "productCount": 44,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_kanso",
+    "name": "Kanso Goods",
+    "logo": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Minimalist precision chronographs and top-grain leather.",
+    "rating": 4.9,
+    "productCount": 58,
+    "isFeatured": true
+  },
+  {
+    "id": "brand_nomads",
+    "name": "Little Nomads",
+    "logo": "https://images.unsplash.com/photo-1503944570-b18428514197?w=200&auto=format&fit=crop&q=80",
+    "tagline": "Gentle organic cottons and joyful wear for young adventurers.",
+    "rating": 4.8,
+    "productCount": 49,
+    "isFeatured": true
+  }
+]

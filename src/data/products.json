@@ -1,0 +1,3497 @@
+[
+  {
+    "id": "prod_men_01",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_tshirts",
+    "name": "Heavyweight Oversized Drop-Shoulder Tee",
+    "tagline": "240 GSM Combed Organic Cotton",
+    "description": "Crafted from substantial 240 GSM organic combed cotton, this drop-shoulder tee delivers a relaxed architectural drape. Pre-shrunk with ribbed collar reinforcement for daily distinction.",
+    "price": 899,
+    "originalPrice": 1799,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 128,
+    "images": [
+      "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Black",
+        "hex": "#0F172A"
+      },
+      {
+        "name": "Vintage White",
+        "hex": "#F8FAFC"
+      },
+      {
+        "name": "Sage Green",
+        "hex": "#84A98C"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Combed Heavy Cotton (240 GSM)",
+    "fit": "Oversized",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Fabric",
+        "value": "Pure Organic Cotton"
+      },
+      {
+        "label": "Pattern",
+        "value": "Solid Matte"
+      },
+      {
+        "label": "Neck",
+        "value": "Crew Neck"
+      },
+      {
+        "label": "Sleeve",
+        "value": "Drop-Shoulder Half Sleeve"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash cold with like colors",
+      "Do not tumble dry",
+      "Warm iron inside out"
+    ],
+    "tags": [
+      "under-999",
+      "fresh-fits",
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isDealOfTheDay": true,
+    "stock": 42,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_02",
+    "brandId": "brand_vero",
+    "brandName": "Vero Linen",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_shirts",
+    "name": "French Flax Relaxed Resort Shirt",
+    "tagline": "Pure European Flax Linen",
+    "description": "Breathable, airy resort shirt woven from 100% French flax linen. Features mother-of-pearl buttons and a soft Cuban collar for effortless weekend luxury.",
+    "price": 1899,
+    "originalPrice": 3499,
+    "discount": 45,
+    "rating": 4.7,
+    "reviewCount": 94,
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sand Dune",
+        "hex": "#D7C9B1"
+      },
+      {
+        "name": "Sky Blue",
+        "hex": "#BAE6FD"
+      },
+      {
+        "name": "Crisp White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% French Flax Linen",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Collar",
+        "value": "Camp / Cuban Collar"
+      },
+      {
+        "label": "Buttons",
+        "value": "Natural Shell"
+      },
+      {
+        "label": "Weave",
+        "value": "Plain Linen Weave"
+      }
+    ],
+    "careInstructions": [
+      "Gentle machine wash",
+      "Dry in shade",
+      "Warm steam iron"
+    ],
+    "tags": [
+      "weekend-styles",
+      "new-season",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 28,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_03",
+    "brandId": "brand_zephyr",
+    "brandName": "Zephyr Denim",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_jeans",
+    "name": "14oz Selvedge Tapered Indigo Jeans",
+    "tagline": "Woven on Vintage Shuttle Looms",
+    "description": "Authentic 14oz red-line selvedge denim crafted from rope-dyed ring-spun cotton. Tailored with a roomy top block that tapers neatly to the ankle.",
+    "price": 2499,
+    "originalPrice": 4999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 112,
+    "images": [
+      "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Raw Deep Indigo",
+        "hex": "#1E1B4B"
+      },
+      {
+        "name": "Vintage Wash",
+        "hex": "#38BDF8"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStockSizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "material": "100% Selvedge Cotton",
+    "fit": "Slim",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Denim Weight",
+        "value": "14 oz Heavyweight"
+      },
+      {
+        "label": "Edge",
+        "value": "Red-Line Selvedge ID"
+      },
+      {
+        "label": "Closure",
+        "value": "Button Fly"
+      }
+    ],
+    "careInstructions": [
+      "Wash inside out in cold water",
+      "Hang dry"
+    ],
+    "tags": [
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 35,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_04",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_trousers",
+    "name": "Pleated Architectural Chino Trousers",
+    "tagline": "Tailored High-Density Cotton Twill",
+    "description": "Double forward pleats add volume and drape to these modern trousers. Cut with clean slant pockets and internal curtain waistband construction.",
+    "price": 1699,
+    "originalPrice": 2999,
+    "discount": 43,
+    "rating": 4.6,
+    "reviewCount": 76,
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Olive Slate",
+        "hex": "#3F4E4F"
+      },
+      {
+        "name": "Dark Charcoal",
+        "hex": "#1E293B"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStockSizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "material": "98% Cotton Twill, 2% Elastane",
+    "fit": "Relaxed",
+    "occasion": "Work",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Rise",
+        "value": "Mid-to-High Rise"
+      },
+      {
+        "label": "Pleats",
+        "value": "Double Front Pleats"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash warm",
+      "Line dry"
+    ],
+    "tags": [
+      "weekend-styles",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": false,
+    "stock": 20,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_05",
+    "brandId": "brand_nocturne",
+    "brandName": "Nocturne",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_jackets",
+    "name": "Minimalist Faux-Suede Zip Bomber",
+    "tagline": "Silky Micro-Suede Finish",
+    "description": "Clean lines and silver hardware make this bomber a sleek evening layer. Lined in breathable cupro with custom ribbed knit cuffs.",
+    "price": 3299,
+    "originalPrice": 6599,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 88,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Midnight Black",
+        "hex": "#0F172A"
+      },
+      {
+        "name": "Caramel Tan",
+        "hex": "#B45309"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Premium Faux Suede & Satin Lining",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Hardware",
+        "value": "Two-Way Matte Silver YKK"
+      },
+      {
+        "label": "Pockets",
+        "value": "Two Welt Pockets, One Interior"
+      }
+    ],
+    "careInstructions": [
+      "Specialist dry clean only"
+    ],
+    "tags": [
+      "new-season",
+      "trending"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 16,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_06",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_hoodies",
+    "name": "Heavyweight 450 GSM French Terry Hoodie",
+    "tagline": "Unbrushed Loopback Cotton",
+    "description": "Double-lined hood with zero drawstrings for a stark, modern aesthetic. Ribbed side gussets provide flexible ease of movement.",
+    "price": 1999,
+    "originalPrice": 3999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 145,
+    "images": [
+      "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Washed Slate",
+        "hex": "#475569"
+      },
+      {
+        "name": "Ecru Cream",
+        "hex": "#F1F5F9"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Cotton French Terry",
+    "fit": "Oversized",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Weight",
+        "value": "450 GSM Heavyweight"
+      },
+      {
+        "label": "Pocket",
+        "value": "Kangaroo Front Pocket"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash inside out",
+      "Do not bleach"
+    ],
+    "tags": [
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 38,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_07",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_ethnic",
+    "name": "Pure Silk Blend Asymmetric Kurta Set",
+    "tagline": "Modern Festive Minimalist Drape",
+    "description": "Elevated festive tailoring featuring a side-button overlap placket and paired with tapered churidar trousers in rich spun silk.",
+    "price": 2999,
+    "originalPrice": 5999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 63,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Royal Emerald",
+        "hex": "#064E3B"
+      },
+      {
+        "name": "Deep Ochre",
+        "hex": "#78350F"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "70% Spun Silk, 30% Fine Cotton",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Neck",
+        "value": "Mandarin Collar"
+      },
+      {
+        "label": "Includes",
+        "value": "Kurta & Tapered Bottoms"
+      }
+    ],
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "tags": [
+      "new-season",
+      "festive-edit"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": false,
+    "stock": 19,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_08",
+    "brandId": "brand_solis",
+    "brandName": "Solis Active",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_activewear",
+    "name": "BreatheTech 4-Way Stretch Training Tee",
+    "tagline": "Anti-Odor & Quick-Dry Technology",
+    "description": "Laser-perforated back panel for micro-ventilation during intense workouts. Seamless hem design prevents chafing.",
+    "price": 799,
+    "originalPrice": 1499,
+    "discount": 47,
+    "rating": 4.8,
+    "reviewCount": 182,
+    "images": [
+      "https://images.unsplash.com/photo-1483721074575-472d8a571f49?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Gunmetal Grey",
+        "hex": "#334155"
+      },
+      {
+        "name": "Cobalt Blue",
+        "hex": "#2563EB"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "88% Recycled Poly, 12% Spandex",
+    "fit": "Slim",
+    "occasion": "Sports",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Technology",
+        "value": "AeroVent Quick-Drying"
+      },
+      {
+        "label": "Reflective",
+        "value": "Subtle Rear Logo"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash cold",
+      "Do not iron print"
+    ],
+    "tags": [
+      "under-999",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 65,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_09",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_shirts",
+    "name": "Structured Supima Cotton Oxford Shirt",
+    "tagline": "100-Ply Double Yarn Fabric",
+    "description": "A crisp modern icon. Tailored with a natural roll button-down collar and mother-of-pearl buttons. Unrivaled softness that softens with each wash.",
+    "price": 1799,
+    "originalPrice": 2999,
+    "discount": 40,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Pure White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "French Blue",
+        "hex": "#3B82F6"
+      }
+    ],
+    "sizes": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "inStockSizes": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "material": "100% American Supima Cotton",
+    "fit": "Tailored",
+    "occasion": "Formal",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Collar",
+        "value": "Button-Down Roll"
+      },
+      {
+        "label": "Cuff",
+        "value": "Rounded Two-Button"
+      }
+    ],
+    "careInstructions": [
+      "Warm machine wash",
+      "Steam iron"
+    ],
+    "tags": [
+      "fresh-fits",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 30,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_10",
+    "brandId": "brand_zephyr",
+    "brandName": "Zephyr Denim",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_jeans",
+    "name": "Vintage Wash Relaxed Straight Jeans",
+    "tagline": "Classic 90s Heritage Wash",
+    "description": "Subtle whiskering and hand-abraded hems recreate authentic archive denim. Cut with a relaxed straight leg that stacks effortlessly over boots.",
+    "price": 1999,
+    "originalPrice": 3999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "images": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Stoned Medium Blue",
+        "hex": "#60A5FA"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStockSizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "material": "100% Ring-Spun Denim Cotton",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Rise",
+        "value": "Mid Rise"
+      },
+      {
+        "label": "Fly",
+        "value": "Brass YKK Zipper"
+      }
+    ],
+    "careInstructions": [
+      "Wash inside out",
+      "Air dry"
+    ],
+    "tags": [
+      "trending",
+      "weekend-styles"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 22,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_01",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_dresses",
+    "name": "Botanical Silk-Crepe Belted Midi Dress",
+    "tagline": "Hand-Drawn Botanical Placement Print",
+    "description": "Fluid silk-crepe midi dress with a gentle A-line silhouette and concealed side pockets. The detachable fabric belt highlights the waist gracefully.",
+    "price": 2499,
+    "originalPrice": 4999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 210,
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Emerald Floral",
+        "hex": "#064E3B"
+      },
+      {
+        "name": "Champagne Rose",
+        "hex": "#FB7185"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "100% Silk Crepe",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "Midi Calf Length"
+      },
+      {
+        "label": "Neckline",
+        "value": "V-Neck"
+      },
+      {
+        "label": "Lining",
+        "value": "Soft Cotton Mul"
+      }
+    ],
+    "careInstructions": [
+      "Gentle hand wash or dry clean",
+      "Low steam iron"
+    ],
+    "tags": [
+      "fresh-fits",
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "isDealOfTheDay": true,
+    "stock": 35,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_02",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_tops",
+    "name": "Sculpted Square-Neck Poplin Top",
+    "tagline": "Double-Layer Structured Bodice",
+    "description": "Architectural tailoring with delicate ruching along the waist. Styled with slight puff shoulders and invisible back zip closure.",
+    "price": 999,
+    "originalPrice": 1999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1534126511673-b6899657816a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Pristine White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "name": "Noir Slate",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "97% Compact Cotton Poplin, 3% Lycra",
+    "fit": "Slim",
+    "occasion": "Casual",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Neckline",
+        "value": "Wide Square Neck"
+      },
+      {
+        "label": "Sleeve",
+        "value": "Half Puff Sleeve"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash cold with mild detergent"
+    ],
+    "tags": [
+      "under-999",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 48,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_03",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_kurtas",
+    "name": "Hand-Embroidered Chanderi Kurta & Pant Set",
+    "tagline": "Zari Work on Sheer Chanderi Silk",
+    "description": "Intricate gold thread needlework along the split neckline and cuffs. Paired with straight cropped silk cigarette pants and an organza dupatta.",
+    "price": 3499,
+    "originalPrice": 6999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 142,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Blush Pink",
+        "hex": "#F472B6"
+      },
+      {
+        "name": "Mustard Gold",
+        "hex": "#D97706"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "Chanderi Silk with Mulmul Lining",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Work",
+        "value": "Handcrafted Zari & Resham"
+      },
+      {
+        "label": "Set Includes",
+        "value": "Kurta, Pants & Dupatta"
+      }
+    ],
+    "careInstructions": [
+      "Strictly dry clean only"
+    ],
+    "tags": [
+      "festive-edit",
+      "new-season",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 24,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_04",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_sarees",
+    "name": "Handloom Tissue Linen Saree with Metallic Border",
+    "tagline": "Organic Linen Woven with Fine Zari",
+    "description": "Ultra-lightweight drape in shimmering tissue linen. Features silver and antique gold dual-tone border with delicate tasselled pallu.",
+    "price": 2899,
+    "originalPrice": 4999,
+    "discount": 42,
+    "rating": 4.8,
+    "reviewCount": 78,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sage Silver",
+        "hex": "#94A3B8"
+      },
+      {
+        "name": "Dusty Rose",
+        "hex": "#FB7185"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "inStockSizes": [
+      "Free Size"
+    ],
+    "material": "100% Handloom Linen & Zari",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "5.5 meters + 0.8m Blouse Piece"
+      },
+      {
+        "label": "Blouse Fabric",
+        "value": "Unstitched Tissue Silk"
+      }
+    ],
+    "careInstructions": [
+      "Dry clean only"
+    ],
+    "tags": [
+      "festive-edit",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 18,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_05",
+    "brandId": "brand_zephyr",
+    "brandName": "Zephyr Denim",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_jeans",
+    "name": "High-Rise Wide-Leg Flare Jeans",
+    "tagline": "Authentic Rigid Denim with Soft Handfeel",
+    "description": "Fitted through the hips with a wide, dramatic flare leg that lengthens the silhouette. Features high-waist styling with classic five-pocket detail.",
+    "price": 1899,
+    "originalPrice": 3799,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 109,
+    "images": [
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Light Vintage Wash",
+        "hex": "#7DD3FC"
+      },
+      {
+        "name": "Dark Indigo",
+        "hex": "#1E293B"
+      }
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "inStockSizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "material": "99% Cotton, 1% Spandex",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Rise",
+        "value": "High Rise (11.5 inches)"
+      },
+      {
+        "label": "Inseam",
+        "value": "32 inches"
+      }
+    ],
+    "careInstructions": [
+      "Turn inside out, machine wash cold"
+    ],
+    "tags": [
+      "trending",
+      "weekend-styles"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 31,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_06",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_skirts",
+    "name": "Sunburst Accordion Pleated Satin Midi Skirt",
+    "tagline": "Liquid Gloss Finish with Elasticated Waist",
+    "description": "Permanent accordion pleats that catch the light effortlessly. High-waist silhouette with a concealed elastic waistband for all-day comfort.",
+    "price": 1499,
+    "originalPrice": 2999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 85,
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Champagne Gold",
+        "hex": "#FDE68A"
+      },
+      {
+        "name": "Forest Green",
+        "hex": "#065F46"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "100% Heavy Satin Crepe",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "Midi"
+      },
+      {
+        "label": "Waistband",
+        "value": "Comfort Stretch"
+      }
+    ],
+    "careInstructions": [
+      "Hand wash in cold water",
+      "Do not iron pleats directly"
+    ],
+    "tags": [
+      "fresh-fits",
+      "trending"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 25,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_07",
+    "brandId": "brand_solis",
+    "brandName": "Solis Active",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_activewear",
+    "name": "Seamless Ribbed Sculpting Leggings & Bra Set",
+    "tagline": "High-Compression Zero-Chafe Knit",
+    "description": "Body-hugging micro-ribbed set designed for low to high impact training. Moisture-wicking yarn with 4-way omni-stretch.",
+    "price": 1899,
+    "originalPrice": 3799,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 160,
+    "images": [
+      "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Taupe Mineral",
+        "hex": "#78716C"
+      },
+      {
+        "name": "Muted Moss",
+        "hex": "#4D7C0F"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "82% Polyamide, 18% Elastane",
+    "fit": "Slim",
+    "occasion": "Sports",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Waistband",
+        "value": "Double-Rib Contoured High Rise"
+      },
+      {
+        "label": "Padding",
+        "value": "Removable Push Cups"
+      }
+    ],
+    "careInstructions": [
+      "Cold machine wash",
+      "Do not use fabric softener"
+    ],
+    "tags": [
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 40,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_08",
+    "brandId": "brand_vero",
+    "brandName": "Vero Linen",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_dresses",
+    "name": "Pure Linen Tiered Summer Sundress",
+    "tagline": "Pre-Washed for Featherlight Softness",
+    "description": "Breezy tiered silhouette with slim adjustable straps and subtle ruffle detail. An essential for warm beach escapes and garden gatherings.",
+    "price": 2199,
+    "originalPrice": 3999,
+    "discount": 45,
+    "rating": 4.8,
+    "reviewCount": 92,
+    "images": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Lemon Ochre",
+        "hex": "#FCD34D"
+      },
+      {
+        "name": "Chalk White",
+        "hex": "#F8FAFC"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "100% French Flax Linen",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Straps",
+        "value": "Tie-Up Shoulder Straps"
+      },
+      {
+        "label": "Pockets",
+        "value": "Two Inseam Side Pockets"
+      }
+    ],
+    "careInstructions": [
+      "Gentle wash, line dry in shade"
+    ],
+    "tags": [
+      "weekend-styles",
+      "new-season"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 29,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_09",
+    "brandId": "brand_nocturne",
+    "brandName": "Nocturne",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_tops",
+    "name": "Silk Satin Cowl Neck Cami Top",
+    "tagline": "Liquid Bias Cut with Gold Sliders",
+    "description": "Drapes gracefully across the collarbone. Cut on the bias to hug curves subtly without clinging. Ideal under tailored blazers or paired with denim.",
+    "price": 899,
+    "originalPrice": 1799,
+    "discount": 50,
+    "rating": 4.6,
+    "reviewCount": 71,
+    "images": [
+      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Champagne",
+        "hex": "#FEF3C7"
+      },
+      {
+        "name": "Midnight Onyx",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Heavy Silk Poly Satin",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Neck",
+        "value": "Deep Cowl Neck"
+      },
+      {
+        "label": "Straps",
+        "value": "Adjustable Rouleau Straps"
+      }
+    ],
+    "careInstructions": [
+      "Hand wash delicate"
+    ],
+    "tags": [
+      "under-999",
+      "fresh-fits"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 50,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_10",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_kurtas",
+    "name": "Indigo Ajrakh Block-Print Straight Kurta",
+    "tagline": "Natural Dyes & Hand-Carved Woodblocks",
+    "description": "Handcrafted by master artisans using geometric Ajrakh printing techniques. Features delicate mirror embroidery on the yoke.",
+    "price": 1399,
+    "originalPrice": 2499,
+    "discount": 44,
+    "rating": 4.8,
+    "reviewCount": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Indigo Crimson",
+        "hex": "#1E1B4B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Breathable Cotton Mulmul",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Craft",
+        "value": "Traditional Ajrakh Hand Block"
+      },
+      {
+        "label": "Sleeve",
+        "value": "Three-Quarter"
+      }
+    ],
+    "careInstructions": [
+      "First wash separate in cold water"
+    ],
+    "tags": [
+      "festive-edit",
+      "weekend-styles"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 33,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_01",
+    "brandId": "brand_nomads",
+    "brandName": "Little Nomads",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_boys",
+    "name": "Boys 100% Organic Cotton Explorer Graphic Tee",
+    "tagline": "Ultra-Soft Zero Toxic Chemical Dyes",
+    "description": "Combed GOTS-certified organic cotton with water-based playful graphics. Tagless collar prevents neck irritation during non-stop playtime.",
+    "price": 599,
+    "originalPrice": 999,
+    "discount": 40,
+    "rating": 4.8,
+    "reviewCount": 67,
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sunshine Yellow",
+        "hex": "#FBBF24"
+      },
+      {
+        "name": "Navy Blue",
+        "hex": "#1E3A8A"
+      }
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "inStockSizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y",
+      "9-10Y"
+    ],
+    "material": "100% GOTS Organic Cotton",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Certification",
+        "value": "GOTS Certified Organic"
+      },
+      {
+        "label": "Neck",
+        "value": "Ribbed Crew Neck"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash warm",
+      "Tumble dry low"
+    ],
+    "tags": [
+      "under-999",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 55,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_02",
+    "brandId": "brand_nomads",
+    "brandName": "Little Nomads",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_girls",
+    "name": "Girls Floral Print Twirl A-Line Dress",
+    "tagline": "Pure Cotton with Cotton Voile Lining",
+    "description": "Designed for twirling! Sweet bow accents at the shoulders and a gathered ruffled hem. Gentle button back closure for effortless dressing.",
+    "price": 899,
+    "originalPrice": 1699,
+    "discount": 47,
+    "rating": 4.9,
+    "reviewCount": 84,
+    "images": [
+      "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Blossom Pink",
+        "hex": "#F472B6"
+      }
+    ],
+    "sizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "inStockSizes": [
+      "2-3Y",
+      "4-5Y",
+      "6-7Y"
+    ],
+    "material": "100% Breathable Cotton Poplin",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Closure",
+        "value": "Pearl Buttons at Back"
+      },
+      {
+        "label": "Silhouette",
+        "value": "Full Twirl Flare"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash cold delicate"
+    ],
+    "tags": [
+      "under-999",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 38,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_03",
+    "brandId": "brand_nomads",
+    "brandName": "Little Nomads",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_infants",
+    "name": "Infant Organic Kimono Onesie 3-Pack",
+    "tagline": "Nickel-Free Snap Buttons",
+    "description": "Envelope neck and front kimono snaps make changing simple and stress-free. Pre-washed for maximum gentleness against delicate newborn skin.",
+    "price": 799,
+    "originalPrice": 1499,
+    "discount": 46,
+    "rating": 4.9,
+    "reviewCount": 110,
+    "images": [
+      "https://images.unsplash.com/photo-1522771930-78848d9293e8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Pastel Meadow",
+        "hex": "#A7F3D0"
+      }
+    ],
+    "sizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "inStockSizes": [
+      "0-3M",
+      "3-6M",
+      "6-12M"
+    ],
+    "material": "100% Organic Interlock Cotton",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Pack Content",
+        "value": "3 Bodysuits"
+      },
+      {
+        "label": "Fastening",
+        "value": "Nickel-Free Snaps"
+      }
+    ],
+    "careInstructions": [
+      "Warm wash with baby detergent"
+    ],
+    "tags": [
+      "under-999",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 42,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_04",
+    "brandId": "brand_solis",
+    "brandName": "Solis Active",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_footwear",
+    "name": "Kids Aero-Flex Lightweight Hook-and-Loop Sneakers",
+    "tagline": "Non-Marking Grippy Rubber Outsole",
+    "description": "Breathable mesh upper with dual velcro straps so young champions can put them on independently. Shock-absorbing EVA midsole.",
+    "price": 999,
+    "originalPrice": 1999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 54,
+    "images": [
+      "https://images.unsplash.com/photo-1514989940723-e8e51635b782?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Electric Royal",
+        "hex": "#2563EB"
+      },
+      {
+        "name": "Coral Pink",
+        "hex": "#FB7185"
+      }
+    ],
+    "sizes": [
+      "UK 10 Kids",
+      "UK 11 Kids",
+      "UK 12 Kids",
+      "UK 13 Kids"
+    ],
+    "inStockSizes": [
+      "UK 10 Kids",
+      "UK 11 Kids",
+      "UK 12 Kids"
+    ],
+    "material": "Engineered Breathable Mesh & EVA",
+    "fit": "Regular",
+    "occasion": "Sports",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Closure",
+        "value": "Hook and Loop Velcro"
+      },
+      {
+        "label": "Sole",
+        "value": "Flexible Non-Skid EVA"
+      }
+    ],
+    "careInstructions": [
+      "Wipe clean with cloth"
+    ],
+    "tags": [
+      "under-999",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 28,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_01",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_sneakers",
+    "name": "Apex Minimalist Court Sneakers",
+    "tagline": "Italian Full-Grain Calfskin Leather",
+    "description": "Uncluttered retro court silhouette handmade from full-grain Italian leather. Fitted with an ortholite memory foam footbed and vulcanized margom sole.",
+    "price": 2799,
+    "originalPrice": 4999,
+    "discount": 44,
+    "rating": 4.9,
+    "reviewCount": 164,
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Chalk White",
+        "hex": "#F8FAFC"
+      },
+      {
+        "name": "Onyx Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10",
+      "UK 11"
+    ],
+    "inStockSizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10",
+      "UK 11"
+    ],
+    "material": "Top-Grain Italian Nappa Leather",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Insole",
+        "value": "Cushioned Memory Foam"
+      },
+      {
+        "label": "Sole",
+        "value": "Vulcanized Rubber Margom"
+      }
+    ],
+    "careInstructions": [
+      "Clean with leather foam protector"
+    ],
+    "tags": [
+      "trending",
+      "best-seller",
+      "fresh-fits"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 35,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_02",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_casual",
+    "name": "Artisan Burnished Leather Penny Loafers",
+    "tagline": "Blake-Stitched Leather Sole",
+    "description": "Hand-burnished crust calfskin with a deep ombre patina. Blake-stitched for flexible comfort right out of the box with reinforced rubber heel insert.",
+    "price": 3499,
+    "originalPrice": 6999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 98,
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Espresso Brown",
+        "hex": "#451A03"
+      },
+      {
+        "name": "Conker Oxblood",
+        "hex": "#7F1D1D"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "inStockSizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "material": "Burnished Crust Leather",
+    "fit": "Regular",
+    "occasion": "Work",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Construction",
+        "value": "Blake Stitch"
+      },
+      {
+        "label": "Lining",
+        "value": "Breathable Cowhide"
+      }
+    ],
+    "careInstructions": [
+      "Condition with neutral shoe wax"
+    ],
+    "tags": [
+      "new-season",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 22,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_03",
+    "brandId": "brand_solis",
+    "brandName": "Solis Active",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_sports",
+    "name": "Strata Pro Responsive Carbon Road Trainers",
+    "tagline": "Carbon Infused Speed Plate & Nitrogen Foam",
+    "description": "Engineered for record-breaking distance runs. Supercritical nitrogen foam midsole provides 85% energy return with an ultra-light mono-mesh upper.",
+    "price": 3999,
+    "originalPrice": 7999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 118,
+    "images": [
+      "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Electric Volt",
+        "hex": "#84CC16"
+      },
+      {
+        "name": "Sonic White",
+        "hex": "#F8FAFC"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "inStockSizes": [
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "material": "Mono-Mesh & Nitro-Foam",
+    "fit": "Regular",
+    "occasion": "Sports",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Drop",
+        "value": "8mm Heel-to-Toe"
+      },
+      {
+        "label": "Weight",
+        "value": "205g (UK 9)"
+      }
+    ],
+    "careInstructions": [
+      "Hand rinse in cold water, air dry"
+    ],
+    "tags": [
+      "trending",
+      "new-season"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 19,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_04",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_heels",
+    "name": "Sculptural Block-Heel Strappy Sandals",
+    "tagline": "65mm Geometric Architectural Heel",
+    "description": "Tubular leather straps frame the foot with graceful minimalism. Cushioned footbed with angled square toe and custom metallic buckle.",
+    "price": 2299,
+    "originalPrice": 4299,
+    "discount": 46,
+    "rating": 4.8,
+    "reviewCount": 79,
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Nude Blush",
+        "hex": "#E7E5E4"
+      },
+      {
+        "name": "Midnight Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "inStockSizes": [
+      "UK 4",
+      "UK 5",
+      "UK 6",
+      "UK 7"
+    ],
+    "material": "Vegan Leather & Latex Insole",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Heel Height",
+        "value": "2.5 inches (65mm)"
+      },
+      {
+        "label": "Toe Style",
+        "value": "Modern Square Toe"
+      }
+    ],
+    "careInstructions": [
+      "Wipe gently with damp microfiber cloth"
+    ],
+    "tags": [
+      "fresh-fits",
+      "trending"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 25,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_05",
+    "brandId": "brand_vero",
+    "brandName": "Vero Linen",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_sandals",
+    "name": "Natural Jute & Leather Cross-Strap Slides",
+    "tagline": "Molded Cork Footbed with Arch Support",
+    "description": "Ergonomic suede-lined cork footbed that molds to the contour of your feet. Thick full-grain leather criss-cross straps.",
+    "price": 1499,
+    "originalPrice": 2799,
+    "discount": 46,
+    "rating": 4.7,
+    "reviewCount": 91,
+    "images": [
+      "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Cognac Tan",
+        "hex": "#B45309"
+      },
+      {
+        "name": "Charcoal Black",
+        "hex": "#1E293B"
+      }
+    ],
+    "sizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "inStockSizes": [
+      "UK 6",
+      "UK 7",
+      "UK 8",
+      "UK 9"
+    ],
+    "material": "Genuine Leather & Cork Footbed",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Footbed",
+        "value": "Anatomical Cork-Latex"
+      },
+      {
+        "label": "Outsole",
+        "value": "Shock Absorbing EVA"
+      }
+    ],
+    "careInstructions": [
+      "Brush clean with suede brush"
+    ],
+    "tags": [
+      "weekend-styles",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 36,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_01",
+    "brandId": "brand_kanso",
+    "brandName": "Kanso Goods",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_watches",
+    "name": "Aero Minimalist Chronograph Watch",
+    "tagline": "Sapphire Crystal & Japanese Quartz Movement",
+    "description": "Sleek 40mm matte 316L stainless steel case with sub-second chronograph dials. Scratch-resistant sapphire crystal and quick-release Italian horween leather strap.",
+    "price": 3899,
+    "originalPrice": 7999,
+    "discount": 51,
+    "rating": 4.9,
+    "reviewCount": 154,
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Matte Stealth Black",
+        "hex": "#0F172A"
+      },
+      {
+        "name": "Rose Gold & White",
+        "hex": "#FBCFE8"
+      }
+    ],
+    "sizes": [
+      "40mm"
+    ],
+    "inStockSizes": [
+      "40mm"
+    ],
+    "material": "316L Stainless Steel & Horween Leather",
+    "fit": "Regular",
+    "occasion": "Formal",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Water Resistance",
+        "value": "5 ATM (50 Meters)"
+      },
+      {
+        "label": "Glass",
+        "value": "Anti-Reflective Sapphire"
+      },
+      {
+        "label": "Movement",
+        "value": "Miyota 0S20 Quartz"
+      }
+    ],
+    "careInstructions": [
+      "Avoid contact with hot water or steam"
+    ],
+    "tags": [
+      "trending",
+      "best-seller",
+      "new-season"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 25,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_02",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_bags",
+    "name": "Full-Grain Leather 15\" Laptop Briefcase",
+    "tagline": "Padded Tech Sleeve & Antique Brass Hardware",
+    "description": "Handcrafted from oiled full-grain leather that gains rich character over time. Features a dedicated 15-inch laptop compartment and trolley pass-through sleeve.",
+    "price": 4299,
+    "originalPrice": 8499,
+    "discount": 49,
+    "rating": 4.9,
+    "reviewCount": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Vintage Saddle Brown",
+        "hex": "#78350F"
+      },
+      {
+        "name": "Noir Slate",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "inStockSizes": [
+      "One Size"
+    ],
+    "material": "100% Full-Grain Waxed Leather",
+    "fit": "Regular",
+    "occasion": "Work",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Dimensions",
+        "value": "40cm x 30cm x 9cm"
+      },
+      {
+        "label": "Laptop Fit",
+        "value": "Up to 15.6 inch MacBook/Laptop"
+      }
+    ],
+    "careInstructions": [
+      "Treat twice annually with leather balm"
+    ],
+    "tags": [
+      "best-seller",
+      "fresh-fits"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 18,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_03",
+    "brandId": "brand_kanso",
+    "brandName": "Kanso Goods",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_wallets",
+    "name": "RFID-Blocking Slim Italian Leather Bifold Wallet",
+    "tagline": "Holds 8 Cards & Flat Notes with Zero Bulk",
+    "description": "Ultra-slim 8mm profile crafted from vegetable-tanned Tuscan leather. Integrated RFID protective shield blocks wireless theft.",
+    "price": 899,
+    "originalPrice": 1799,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 210,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Espresso Brown",
+        "hex": "#3E2723"
+      },
+      {
+        "name": "Deep Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "Slim"
+    ],
+    "inStockSizes": [
+      "Slim"
+    ],
+    "material": "Tuscan Vegetable Tanned Leather",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Slots",
+        "value": "6 Card Slots + 2 Hidden Slip Pockets"
+      },
+      {
+        "label": "Protection",
+        "value": "RFID 13.56 MHz Shielding"
+      }
+    ],
+    "careInstructions": [
+      "Keep away from direct heat"
+    ],
+    "tags": [
+      "under-999",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 60,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_04",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_sunglasses",
+    "name": "Retro Acetate Polarized Square Sunglasses",
+    "tagline": "UV400 Category 3 Tint with Stainless Steel Core",
+    "description": "Hand-polished cellulose acetate frames with anti-reflective polarized green lenses. 100% UVA/UVB protection with five-barrel German hinges.",
+    "price": 1499,
+    "originalPrice": 2999,
+    "discount": 50,
+    "rating": 4.7,
+    "reviewCount": 88,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Dark Tortoise",
+        "hex": "#451A03"
+      },
+      {
+        "name": "Gloss Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "inStockSizes": [
+      "Standard"
+    ],
+    "material": "Cellulose Acetate & CR-39 Lenses",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Protection",
+        "value": "UV400 Polarized"
+      },
+      {
+        "label": "Includes",
+        "value": "Hard Leather Case & Microfiber Cloth"
+      }
+    ],
+    "careInstructions": [
+      "Clean only with microfiber cloth"
+    ],
+    "tags": [
+      "weekend-styles",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 32,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_05",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_jewellery",
+    "name": "925 Sterling Silver Geometric Pendant Chain",
+    "tagline": "Hallmarked 925 with Rhodium Anti-Tarnish Coating",
+    "description": "Minimalist architectural pendant hung on a delicate 20-inch diamond-cut curb chain. Hypoallergenic and sweat-resistant for permanent daily wear.",
+    "price": 1299,
+    "originalPrice": 2599,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 104,
+    "images": [
+      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Silver Rhodium",
+        "hex": "#E2E8F0"
+      },
+      {
+        "name": "18K Gold Plated",
+        "hex": "#FCD34D"
+      }
+    ],
+    "sizes": [
+      "20 inch"
+    ],
+    "inStockSizes": [
+      "20 inch"
+    ],
+    "material": "Solid 925 Sterling Silver",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Purity",
+        "value": "BIS Hallmarked 925"
+      },
+      {
+        "label": "Clasp",
+        "value": "Secure Lobster Claw"
+      }
+    ],
+    "careInstructions": [
+      "Store in airtight pouch when not in use"
+    ],
+    "tags": [
+      "trending",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 29,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_11",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_shirts",
+    "name": "Vintage Wash Corduroy Overshirt",
+    "tagline": "8-Wale Heavyweight Pure Cotton Corduroy",
+    "description": "Rugged yet plush corduroy jacket-shirt hybrid with dual flap chest pockets and tortoiseshell buttons. Layer over tees or wear solo.",
+    "price": 2199,
+    "originalPrice": 4299,
+    "discount": 48,
+    "rating": 4.8,
+    "reviewCount": 73,
+    "images": [
+      "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Rust Clay",
+        "hex": "#9A3412"
+      },
+      {
+        "name": "Forest Olive",
+        "hex": "#3F4E4F"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Heavy Cotton Corduroy",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Wale",
+        "value": "8-Wale Wide Wale"
+      },
+      {
+        "label": "Pockets",
+        "value": "Dual Flap Chest Pockets"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash gentle inside out"
+    ],
+    "tags": [
+      "weekend-styles",
+      "fresh-fits",
+      "new-season"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 24,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_12",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_tshirts",
+    "name": "Japanese Waffle Knit Long-Sleeve Henley",
+    "tagline": "Thermal Honeycomb Texture with Horn Buttons",
+    "description": "Thermal honeycomb weave knit from combed ring-spun yarn. Designed with curved hem and three natural horn buttons on placket.",
+    "price": 1199,
+    "originalPrice": 2299,
+    "discount": 47,
+    "rating": 4.7,
+    "reviewCount": 61,
+    "images": [
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Charcoal Grey",
+        "hex": "#334155"
+      },
+      {
+        "name": "Off-White",
+        "hex": "#F8FAFC"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Waffle Weave Cotton",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Neck",
+        "value": "Henley 3-Button Placket"
+      },
+      {
+        "label": "Texture",
+        "value": "Honeycomb Thermal"
+      }
+    ],
+    "careInstructions": [
+      "Cold wash, dry flat"
+    ],
+    "tags": [
+      "under-999",
+      "weekend-styles"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 32,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_13",
+    "brandId": "brand_vero",
+    "brandName": "Vero Linen",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_ethnic",
+    "name": "Pure Linen Mandarin Collar Short Kurta",
+    "tagline": "Natural Slub Texture with Wooden Buttons",
+    "description": "Modern minimalist short kurta designed to pair effortlessly with denims or chinos. Breathable pure linen weave for everyday sophistication.",
+    "price": 1399,
+    "originalPrice": 2499,
+    "discount": 44,
+    "rating": 4.8,
+    "reviewCount": 94,
+    "images": [
+      "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sage Mint",
+        "hex": "#6EE7B7"
+      },
+      {
+        "name": "Ivory",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inStockSizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "100% Natural Flax Linen",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Length",
+        "value": "Short Hip-Length"
+      },
+      {
+        "label": "Collar",
+        "value": "Mandarin Band"
+      }
+    ],
+    "careInstructions": [
+      "Gentle hand wash",
+      "Steam iron"
+    ],
+    "tags": [
+      "festive-edit",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 26,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_14",
+    "brandId": "brand_solis",
+    "brandName": "Solis Active",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_activewear",
+    "name": "AeroVent 7\" 2-in-1 Lined Training Shorts",
+    "tagline": "Integrated Compression Liner with Phone Pocket",
+    "description": "Ultra-lightweight stretch shell with built-in compression liner. Features zipper stash pocket and towel loop for high-intensity gym sessions.",
+    "price": 949,
+    "originalPrice": 1899,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 115,
+    "images": [
+      "https://images.unsplash.com/photo-1483721074575-472d8a571f49?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Matte Black",
+        "hex": "#0F172A"
+      },
+      {
+        "name": "Steel Grey",
+        "hex": "#64748B"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "material": "90% Recycled Polyester, 10% Elastane",
+    "fit": "Regular",
+    "occasion": "Sports",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Inseam",
+        "value": "7 inches"
+      },
+      {
+        "label": "Liner",
+        "value": "Anti-Chafe Compression"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash cold"
+    ],
+    "tags": [
+      "under-999",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 45,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_men_15",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_men",
+    "subCategoryId": "sub_men_trousers",
+    "name": "Minimalist Utility Cargo Trousers",
+    "tagline": "Streamlined Bellow Pockets with D-Ring Hardware",
+    "description": "Architectural interpretation of cargo pants. Flat bellows pockets without bulk, darted knees for ergonomic mobility, and drawstring cuff cinch.",
+    "price": 1899,
+    "originalPrice": 3699,
+    "discount": 48,
+    "rating": 4.7,
+    "reviewCount": 82,
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Smoky Charcoal",
+        "hex": "#1E293B"
+      },
+      {
+        "name": "Desert Khaki",
+        "hex": "#D7C9B1"
+      }
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "inStockSizes": [
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "material": "Ripstop Stretch Cotton (280 GSM)",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Hardware",
+        "value": "Matte Black D-Rings"
+      },
+      {
+        "label": "Leg Opening",
+        "value": "Adjustable Elastic Cinch"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash warm"
+    ],
+    "tags": [
+      "trending",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 29,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_11",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_dresses",
+    "name": "Architectural Tailored Blazer Dress",
+    "tagline": "Double-Breasted Silhouette with Satin Lapels",
+    "description": "Impeccably sharp suiting adapted into a showstopping dress. Features structured shoulder pads, horn buttons, and functional welt pockets.",
+    "price": 2999,
+    "originalPrice": 5999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 89,
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Obsidian Noir",
+        "hex": "#0F172A"
+      },
+      {
+        "name": "Cream Alabaster",
+        "hex": "#F8FAFC"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "XS",
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Structured Crepe with Satin Highlights",
+    "fit": "Tailored",
+    "occasion": "Party",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Lapel",
+        "value": "Peak Satin Lapel"
+      },
+      {
+        "label": "Lining",
+        "value": "100% Cupro Breathable"
+      }
+    ],
+    "careInstructions": [
+      "Specialist dry clean only"
+    ],
+    "tags": [
+      "new-season",
+      "trending"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 20,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_12",
+    "brandId": "brand_vero",
+    "brandName": "Vero Linen",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_tops",
+    "name": "Airy Double-Gauze Cotton Camp Shirt",
+    "tagline": "Featherlight Breathable Slub Texture",
+    "description": "Effortlessly rumpled natural cotton gauze shirt with dropped shoulders and a boxy crop silhouette. The ultimate summer staple.",
+    "price": 899,
+    "originalPrice": 1699,
+    "discount": 47,
+    "rating": 4.7,
+    "reviewCount": 112,
+    "images": [
+      "https://images.unsplash.com/photo-1534126511673-b6899657816a?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sage",
+        "hex": "#84A98C"
+      },
+      {
+        "name": "Warm White",
+        "hex": "#FFFFFF"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "100% Organic Double-Gauze Cotton",
+    "fit": "Relaxed",
+    "occasion": "Casual",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Neck",
+        "value": "Notch Camp Collar"
+      },
+      {
+        "label": "Buttons",
+        "value": "Genuine Coconut Shell"
+      }
+    ],
+    "careInstructions": [
+      "Gentle wash cold",
+      "Dry flat"
+    ],
+    "tags": [
+      "under-999",
+      "weekend-styles"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 40,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_13",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_kurtas",
+    "name": "Embroidered Silk Georgette Anarkali Gown",
+    "tagline": "Floor-Sweeping Flare with Fine Threadwork",
+    "description": "Regal silhouette with 28 kalis creating a breathtaking flare. Embellished with subtle silver sequin accents on the bodice and hemline.",
+    "price": 4499,
+    "originalPrice": 8999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 67,
+    "images": [
+      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Royal Midnight",
+        "hex": "#1E1B4B"
+      },
+      {
+        "name": "Wine Burgundy",
+        "hex": "#831843"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "inStockSizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "material": "Pure Silk Georgette & Shantoon Lining",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Flair",
+        "value": "4.5 Meters Full Circle"
+      },
+      {
+        "label": "Includes",
+        "value": "Anarkali, Churidar & Net Dupatta"
+      }
+    ],
+    "careInstructions": [
+      "Dry clean only"
+    ],
+    "tags": [
+      "festive-edit",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 15,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_14",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_jeans",
+    "name": "High-Waist Pleated Wide Linen Trousers",
+    "tagline": "Dramatic Pooling Hemline & Side Buckles",
+    "description": "Fluid tailoring that pairs with sneakers or heels. Features double reverse front pleats and adjustable side waist cinchers.",
+    "price": 1999,
+    "originalPrice": 3999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 95,
+    "images": [
+      "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Oatmeal Beige",
+        "hex": "#D7C9B1"
+      },
+      {
+        "name": "Jet Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "inStockSizes": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "material": "70% French Linen, 30% Viscose",
+    "fit": "Relaxed",
+    "occasion": "Work",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Rise",
+        "value": "Ultra High Rise"
+      },
+      {
+        "label": "Pockets",
+        "value": "Deep Slanted Trouser Pockets"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash delicate",
+      "Warm steam iron"
+    ],
+    "tags": [
+      "fresh-fits",
+      "weekend-styles"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 35,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_women_15",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_women",
+    "subCategoryId": "sub_women_sarees",
+    "name": "Pure Handloom Kanjeevaram Silk Saree",
+    "tagline": "Pure Zari Temple Border with Contrast Pallu",
+    "description": "Woven by certified silk weavers in Kanchipuram with pure mulberry silk. Heavy brocade pallu with motifs inspired by royal palace architecture.",
+    "price": 5999,
+    "originalPrice": 11999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 134,
+    "images": [
+      "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Ruby Crimson & Gold",
+        "hex": "#9F1239"
+      },
+      {
+        "name": "Peacock Green & Copper",
+        "hex": "#065F46"
+      }
+    ],
+    "sizes": [
+      "Free Size"
+    ],
+    "inStockSizes": [
+      "Free Size"
+    ],
+    "material": "100% Pure Mulberry Silk & Certified Zari",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "women",
+    "specifications": [
+      {
+        "label": "Silk Mark",
+        "value": "Certified 100% Silk Mark"
+      },
+      {
+        "label": "Length",
+        "value": "6.3 Meters with Blouse Piece"
+      }
+    ],
+    "careInstructions": [
+      "Wrap in muslin cloth, dry clean only"
+    ],
+    "tags": [
+      "festive-edit",
+      "best-seller"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 12,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_05",
+    "brandId": "brand_nomads",
+    "brandName": "Little Nomads",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_boys",
+    "name": "Boys Smart Oxford Button-Down & Chino Set",
+    "tagline": "100% Softened Cotton with Elastic Waist",
+    "description": "A handsome formal ensemble for birthdays and family dinners. Lightweight breathable cotton shirt paired with expandable waist chinos.",
+    "price": 1299,
+    "originalPrice": 2499,
+    "discount": 48,
+    "rating": 4.8,
+    "reviewCount": 59,
+    "images": [
+      "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue & Khaki",
+        "hex": "#BAE6FD"
+      }
+    ],
+    "sizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y",
+      "10-11Y"
+    ],
+    "inStockSizes": [
+      "4-5Y",
+      "6-7Y",
+      "8-9Y"
+    ],
+    "material": "100% Breathable Cotton",
+    "fit": "Regular",
+    "occasion": "Party",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Includes",
+        "value": "Oxford Shirt & Chino Pants"
+      },
+      {
+        "label": "Waist",
+        "value": "Internal Button Elastic Adjuster"
+      }
+    ],
+    "careInstructions": [
+      "Machine wash warm"
+    ],
+    "tags": [
+      "fresh-fits",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 22,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_kids_06",
+    "brandId": "brand_nomads",
+    "brandName": "Little Nomads",
+    "categoryId": "cat_kids",
+    "subCategoryId": "sub_kids_girls",
+    "name": "Girls Embroidered Cotton Festive Lehenga Choli",
+    "tagline": "Lightweight Cotton Silk with Soft Voile Lining",
+    "description": "Designed so little ones can dance comfortably all evening. Zero scratchy seams, gentle elastic waistband, and pre-stitched net dupatta.",
+    "price": 1799,
+    "originalPrice": 3499,
+    "discount": 49,
+    "rating": 4.9,
+    "reviewCount": 78,
+    "images": [
+      "https://images.unsplash.com/photo-1622290291468-a28f7a7dc6a8?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Marigold Yellow",
+        "hex": "#F59E0B"
+      }
+    ],
+    "sizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "inStockSizes": [
+      "3-4Y",
+      "5-6Y",
+      "7-8Y"
+    ],
+    "material": "Cotton Silk Blend with 100% Cotton Lining",
+    "fit": "Regular",
+    "occasion": "Festive",
+    "gender": "kids",
+    "specifications": [
+      {
+        "label": "Closure",
+        "value": "Back Snaps & Drawstring"
+      },
+      {
+        "label": "Set Content",
+        "value": "Choli, Lehenga & Dupatta"
+      }
+    ],
+    "careInstructions": [
+      "Dry clean or gentle hand wash"
+    ],
+    "tags": [
+      "festive-edit",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 18,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_06",
+    "brandId": "brand_nocturne",
+    "brandName": "Nocturne",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_casual",
+    "name": "Handcrafted Suede Chelsea Ankle Boots",
+    "tagline": "Water-Repellent Italian Calf Suede & Crepe Sole",
+    "description": "Clean tapered toe with tonal elastic side gores and woven pull tabs. Cushioned natural crepe rubber sole for supple shock absorption.",
+    "price": 3799,
+    "originalPrice": 7499,
+    "discount": 49,
+    "rating": 4.9,
+    "reviewCount": 102,
+    "images": [
+      "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Tobacco Brown",
+        "hex": "#78350F"
+      },
+      {
+        "name": "Stealth Black",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "inStockSizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "material": "Treated Calf Suede Leather",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Sole",
+        "value": "Natural Forest Crepe Rubber"
+      },
+      {
+        "label": "Gores",
+        "value": "High-Recovery Elastic Weave"
+      }
+    ],
+    "careInstructions": [
+      "Brush with brass-wire suede brush"
+    ],
+    "tags": [
+      "new-season",
+      "trending"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 19,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_07",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_formal",
+    "name": "Wholecut Italian Leather Formal Oxfords",
+    "tagline": "Single Piece Calfskin Leather Construction",
+    "description": "Masterwork of shoemaking cut from an unbroken piece of full-grain leather. Sleek chiseled toe with hand-painted bevelled waist leather sole.",
+    "price": 4499,
+    "originalPrice": 8999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 87,
+    "images": [
+      "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Black Mirror Gloss",
+        "hex": "#020617"
+      },
+      {
+        "name": "Deep Mahogany",
+        "hex": "#451A03"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "inStockSizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9"
+    ],
+    "material": "Full-Grain Italian Calfskin",
+    "fit": "Regular",
+    "occasion": "Formal",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Construction",
+        "value": "Goodyear Welted"
+      },
+      {
+        "label": "Sole",
+        "value": "Hand-Painted Leather Sole"
+      }
+    ],
+    "careInstructions": [
+      "Use cedar shoetrees, polish regularly"
+    ],
+    "tags": [
+      "best-seller",
+      "new-season"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 14,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_footwear_08",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_footwear",
+    "subCategoryId": "sub_footwear_sneakers",
+    "name": "Retro Runner Multi-Panel Chunky Sneakers",
+    "tagline": "Mix of Hairy Suede, Ripstop & Reflective 3M",
+    "description": "90s archival cross-trainer revamped with modern sculpted EVA midsole. Ortholite anti-microbial insole and multi-directional tread pattern.",
+    "price": 2499,
+    "originalPrice": 4999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 140,
+    "images": [
+      "https://images.unsplash.com/photo-1552346154-21d32810aba3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Off-White & Slate",
+        "hex": "#E2E8F0"
+      },
+      {
+        "name": "Forest & Gold",
+        "hex": "#065F46"
+      }
+    ],
+    "sizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10",
+      "UK 11"
+    ],
+    "inStockSizes": [
+      "UK 7",
+      "UK 8",
+      "UK 9",
+      "UK 10"
+    ],
+    "material": "Suede, Ripstop Nylon & EVA",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Midsole",
+        "value": "Dual-Density High Rebound EVA"
+      },
+      {
+        "label": "Details",
+        "value": "3M Scotchlite Reflective Accents"
+      }
+    ],
+    "careInstructions": [
+      "Spot clean with sneaker wipe"
+    ],
+    "tags": [
+      "trending",
+      "fresh-fits",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 38,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_06",
+    "brandId": "brand_kanso",
+    "brandName": "Kanso Goods",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_wallets",
+    "name": "Reversible Italian Full-Grain Leather Belt",
+    "tagline": "Rotatable Brushed Nickel Buckle (Black & Cognac)",
+    "description": "Two timeless colors in one handcrafted belt. Pull and twist the buckle to instantly alternate between sleek black and warm cognac brown.",
+    "price": 1199,
+    "originalPrice": 2499,
+    "discount": 52,
+    "rating": 4.8,
+    "reviewCount": 165,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Reversible Black & Cognac",
+        "hex": "#0F172A"
+      }
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "inStockSizes": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "material": "100% Vegetable-Tanned Italian Leather",
+    "fit": "Regular",
+    "occasion": "Formal",
+    "gender": "men",
+    "specifications": [
+      {
+        "label": "Width",
+        "value": "35mm Classic Width"
+      },
+      {
+        "label": "Buckle",
+        "value": "Solid Brass with Brushed Gunmetal Finish"
+      }
+    ],
+    "careInstructions": [
+      "Wipe clean with dry cloth"
+    ],
+    "tags": [
+      "best-seller",
+      "weekend-styles"
+    ],
+    "isNew": false,
+    "isBestSeller": true,
+    "isTrending": false,
+    "stock": 50,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_07",
+    "brandId": "brand_vaunt",
+    "brandName": "VAUNT Studio",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_bags",
+    "name": "Heavyweight Waxed Canvas Weekend Duffle",
+    "tagline": "45L Water-Resistant Travel Holdall with Shoe Pocket",
+    "description": "Built for lifetime getaways. 18oz Scottish waxed cotton canvas reinforced with full-grain bridle leather handles and separate ventilated footwear compartment.",
+    "price": 3499,
+    "originalPrice": 6999,
+    "discount": 50,
+    "rating": 4.9,
+    "reviewCount": 92,
+    "images": [
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Field Olive",
+        "hex": "#3F4E4F"
+      },
+      {
+        "name": "Charcoal Slate",
+        "hex": "#1E293B"
+      }
+    ],
+    "sizes": [
+      "45 Liter"
+    ],
+    "inStockSizes": [
+      "45 Liter"
+    ],
+    "material": "18oz Waxed Canvas & Bridle Leather",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Capacity",
+        "value": "45 Liters (Cabin Approved)"
+      },
+      {
+        "label": "Zippers",
+        "value": "Heavy-Duty YKK Brass No. 10"
+      }
+    ],
+    "careInstructions": [
+      "Spot clean with cold water, re-wax as needed"
+    ],
+    "tags": [
+      "weekend-styles",
+      "new-season",
+      "best-seller"
+    ],
+    "isNew": true,
+    "isBestSeller": true,
+    "isTrending": true,
+    "stock": 22,
+    "available": true,
+    "deliveryDays": 3,
+    "returnWindowDays": 14
+  },
+  {
+    "id": "prod_acc_08",
+    "brandId": "brand_monochrome",
+    "brandName": "Monochrome Atelier",
+    "categoryId": "cat_accessories",
+    "subCategoryId": "sub_acc_sunglasses",
+    "name": "Titanium Aviator Sunglasses with Amber Lenses",
+    "tagline": "Ultra-Lightweight 18g Japanese Beta-Titanium Frame",
+    "description": "Featherlight aviator frame crafted from aerospace titanium. Fitted with amber gradient nylon lenses with internal anti-reflective coating.",
+    "price": 2499,
+    "originalPrice": 4999,
+    "discount": 50,
+    "rating": 4.8,
+    "reviewCount": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80"
+    ],
+    "colors": [
+      {
+        "name": "Gunmetal & Amber",
+        "hex": "#D97706"
+      }
+    ],
+    "sizes": [
+      "Standard"
+    ],
+    "inStockSizes": [
+      "Standard"
+    ],
+    "material": "Beta Titanium & Nylon Lenses",
+    "fit": "Regular",
+    "occasion": "Casual",
+    "gender": "unisex",
+    "specifications": [
+      {
+        "label": "Weight",
+        "value": "18 Grams"
+      },
+      {
+        "label": "UV",
+        "value": "100% UV400 Protection"
+      }
+    ],
+    "careInstructions": [
+      "Store in hard case"
+    ],
+    "tags": [
+      "trending",
+      "fresh-fits"
+    ],
+    "isNew": true,
+    "isBestSeller": false,
+    "isTrending": true,
+    "stock": 25,
+    "available": true,
+    "deliveryDays": 2,
+    "returnWindowDays": 14
+  }
+]
