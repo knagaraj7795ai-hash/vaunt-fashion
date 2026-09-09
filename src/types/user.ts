@@ -12,3 +12,7 @@ export interface UserProfile {
   gender?: 'Male' | 'Female' | 'Other';
   dob?: string;
 }
+
+export interface AuthUser extends UserProfile {
+  password: string;
+}

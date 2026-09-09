@@ -4,12 +4,12 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  SafeAreaView,
   StatusBar,
   TouchableOpacity,
-  Image,
   Alert,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { Image } from 'expo-image';
 import { useRoute, useNavigation, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { Ionicons } from '@expo/vector-icons';
@@ -146,7 +146,7 @@ export const OrderTrackingScreen: React.FC = () => {
                 navigation.navigate('ProductDetails', { productId: cartItem.productId })
               }
             >
-              <Image source={{ uri: cartItem.product.images[0] }} style={styles.itemImage} />
+              <Image source={{ uri: cartItem.product.images[0] }} style={styles.itemImage} contentFit="cover" transition={200} />
               <View style={styles.itemDetails}>
                 <Text style={styles.brandName}>{cartItem.product.brandName}</Text>
                 <Text style={styles.productName} numberOfLines={1}>

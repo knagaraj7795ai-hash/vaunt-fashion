@@ -2,7 +2,6 @@ import React, { useState, useRef, useEffect } from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   Dimensions,
   FlatList,
@@ -10,6 +9,7 @@ import {
   NativeSyntheticEvent,
   NativeScrollEvent,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types/navigation';
@@ -56,6 +56,12 @@ export const BannerCarousel: React.FC<BannerCarouselProps> = ({ banners }) => {
     });
   };
 
+  const getItemLayout = (_: any, index: number) => ({
+    length: BANNER_WIDTH + SPACING.base,
+    offset: (BANNER_WIDTH + SPACING.base) * index,
+    index,
+  });
+
   return (
     <View style={styles.container}>
       <FlatList
@@ -70,13 +76,14 @@ export const BannerCarousel: React.FC<BannerCarouselProps> = ({ banners }) => {
         decelerationRate="fast"
         contentContainerStyle={styles.listContent}
         keyExtractor={(item) => item.id}
+        getItemLayout={getItemLayout}
         renderItem={({ item }) => (
           <TouchableOpacity
             activeOpacity={0.92}
             onPress={() => handleBannerPress(item)}
             style={styles.bannerCard}
           >
-            <Image source={{ uri: item.imageUrl }} style={styles.bannerImage} resizeMode="cover" />
+            <Image source={{ uri: item.imageUrl }} style={styles.bannerImage} contentFit="cover" transition={300} />
             <View style={styles.overlayGradient}>
               <View style={styles.tagPill}>
                 <Text style={styles.tagText}>{item.tag}</Text>

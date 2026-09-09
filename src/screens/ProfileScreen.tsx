@@ -2,15 +2,15 @@ import React, { useState } from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   ScrollView,
-  SafeAreaView,
   StatusBar,
   TouchableOpacity,
   Alert,
   Modal,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { Ionicons } from '@expo/vector-icons';
@@ -24,22 +24,19 @@ import { COLORS, TYPOGRAPHY, SPACING, RADIUS, SHADOWS } from '../constants/theme
 
 export const ProfileScreen: React.FC = () => {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
-  const { user, resetUser } = useUser();
+  const { user, logout } = useUser();
   const { orders } = useOrders();
   const { wishlist } = useWishlist();
 
   const [policyModal, setPolicyModal] = useState<{ title: string; content: string } | null>(null);
 
   const handleLogout = () => {
-    Alert.alert('Simulated Logout', 'Reset user profile session to default state?', [
+    Alert.alert('Logout', 'Are you sure you want to logout?', [
       { text: 'Cancel', style: 'cancel' },
       {
-        text: 'Reset / Switch User',
+        text: 'Logout',
         style: 'destructive',
-        onPress: () => {
-          resetUser();
-          Alert.alert('Session Reset', 'Mock user profile restored to default state.');
-        },
+        onPress: () => logout(),
       },
     ]);
   };
@@ -83,14 +80,17 @@ export const ProfileScreen: React.FC = () => {
 
       <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
         {/* User Card */}
-        <View style={styles.userCard}>
-          <Image source={{ uri: user.avatar }} style={styles.avatar} />
+        <TouchableOpacity style={styles.userCard} onPress={() => navigation.navigate('EditProfile')} activeOpacity={0.8}>
+          <Image source={{ uri: user.avatar }} style={styles.avatar} contentFit="cover" transition={200} />
           <View style={styles.userInfo}>
             <View style={styles.nameRow}>
               <Text style={styles.userName}>{user.name}</Text>
-              <View style={styles.tierPill}>
-                <Ionicons name="sparkles" size={10} color="#FFFFFF" />
-                <Text style={styles.tierText}>{user.loyaltyTier}</Text>
+              <View style={styles.nameRowRight}>
+                <View style={styles.tierPill}>
+                  <Ionicons name="sparkles" size={10} color="#FFFFFF" />
+                  <Text style={styles.tierText}>{user.loyaltyTier}</Text>
+                </View>
+                <Ionicons name="create-outline" size={18} color={COLORS.accent} />
               </View>
             </View>
             <Text style={styles.userEmail}>{user.email}</Text>
@@ -103,7 +103,7 @@ export const ProfileScreen: React.FC = () => {
               </Text>
             </View>
           </View>
-        </View>
+        </TouchableOpacity>
 
         {/* Quick Shortcuts */}
         <View style={styles.shortcutsGrid}>
@@ -234,7 +234,7 @@ export const ProfileScreen: React.FC = () => {
         {/* Logout / Switch Session */}
         <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout} activeOpacity={0.8}>
           <Ionicons name="log-out-outline" size={20} color={COLORS.rose} />
-          <Text style={styles.logoutText}>Reset / Switch User Session</Text>
+          <Text style={styles.logoutText}>Logout</Text>
         </TouchableOpacity>
 
         <Text style={styles.appVersion}>VAUNT Mobile v1.0.0 (Build 2026.09) • Offline First</Text>
@@ -302,6 +302,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 8,
     flexWrap: 'wrap',
+  },
+  nameRowRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 6,
+    marginLeft: 'auto',
   },
   userName: {
     ...TYPOGRAPHY.title2,

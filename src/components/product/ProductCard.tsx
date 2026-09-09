@@ -2,12 +2,12 @@ import React from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   TouchableOpacity,
   Dimensions,
   ViewStyle,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -56,7 +56,8 @@ export const ProductCard: React.FC<ProductCardProps> = ({
         <Image
           source={{ uri: product.images[0] }}
           style={styles.image}
-          resizeMode="cover"
+          contentFit="cover"
+          transition={300}
         />
 
         {/* Top Badges */}

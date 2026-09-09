@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
@@ -65,6 +66,8 @@ export const OrderCard: React.FC<OrderCardProps> = ({ order }) => {
               key={idx}
               source={{ uri: item.product.images[0] }}
               style={[styles.itemThumbnail, idx > 0 && { marginLeft: -16 }]}
+              contentFit="cover"
+              transition={200}
             />
           ))}
           {order.items.length > 3 && (

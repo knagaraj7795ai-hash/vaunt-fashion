@@ -5,12 +5,12 @@ import {
   StyleSheet,
   ScrollView,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Alert,
 } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { RootStackParamList } from '../types/navigation';
 import { PaymentMethod } from '../types/order';
@@ -27,6 +27,7 @@ type CheckoutStep = 'address' | 'delivery' | 'payment' | 'review';
 
 export const CheckoutScreen: React.FC = () => {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
+  const insets = useSafeAreaInsets();
   const { items, summary, clearCart } = useCart();
   const { addresses, selectedAddress, selectAddress } = useAddress();
   const { placeOrder } = useOrders();
@@ -536,7 +537,7 @@ export const CheckoutScreen: React.FC = () => {
       </ScrollView>
 
       {/* Sticky Bottom Actions */}
-      <View style={styles.bottomBar}>
+      <View style={[styles.bottomBar, { paddingBottom: Math.max(insets.bottom, 12) }]}>
         <TouchableOpacity
           style={styles.backStepBtn}
           onPress={handlePreviousStep}
@@ -959,7 +960,7 @@ const styles = StyleSheet.create({
     right: 0,
     backgroundColor: COLORS.surface,
     paddingHorizontal: SPACING.base,
-    paddingVertical: 12,
+    paddingTop: 12,
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,

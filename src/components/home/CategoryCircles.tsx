@@ -2,11 +2,11 @@ import React from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   ScrollView,
   TouchableOpacity,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types/navigation';
@@ -42,7 +42,7 @@ export const CategoryCircles: React.FC<CategoryCirclesProps> = ({ categories }) 
             style={styles.circleItem}
           >
             <View style={styles.imageRing}>
-              <Image source={{ uri: cat.imageUrl }} style={styles.circleImage} />
+              <Image source={{ uri: cat.imageUrl }} style={styles.circleImage} contentFit="cover" transition={200} />
             </View>
             <Text style={styles.categoryName} numberOfLines={1}>
               {cat.name}

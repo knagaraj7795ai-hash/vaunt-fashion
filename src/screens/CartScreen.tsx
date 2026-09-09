@@ -4,12 +4,12 @@ import {
   Text,
   StyleSheet,
   ScrollView,
-  SafeAreaView,
   StatusBar,
   TouchableOpacity,
 } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { RootStackParamList } from '../types/navigation';
 import { Coupon } from '../types/cart';
@@ -26,6 +26,7 @@ import { COLORS, TYPOGRAPHY, SPACING, RADIUS, SHADOWS } from '../constants/theme
 
 export const CartScreen: React.FC = () => {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
+  const insets = useSafeAreaInsets();
   const {
     items,
     appliedCoupon,
@@ -142,7 +143,7 @@ export const CartScreen: React.FC = () => {
           </ScrollView>
 
           {/* Sticky Bottom Checkout Footer */}
-          <View style={styles.stickyFooter}>
+          <View style={[styles.stickyFooter, { paddingBottom: Math.max(insets.bottom, 12) }]}>
             <View style={styles.footerPriceCol}>
               <Text style={styles.footerTotalLabel}>Total Amount</Text>
               <Text style={styles.footerTotalPrice}>{formatINR(summary.totalPayable)}</Text>
@@ -289,7 +290,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'space-between',
     paddingHorizontal: SPACING.base,
-    paddingVertical: 12,
+    paddingTop: 12,
     borderTopWidth: 1,
     borderTopColor: COLORS.border,
     ...SHADOWS.lg,

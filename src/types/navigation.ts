@@ -9,6 +9,8 @@ export type BottomTabParamList = {
 };
 
 export type RootStackParamList = {
+  Login: undefined;
+  Register: undefined;
   MainTabs: NavigatorScreenParams<BottomTabParamList>;
   ProductListing: {
     title?: string;
@@ -37,4 +39,5 @@ export type RootStackParamList = {
   Notifications: undefined;
   Offers: undefined;
   RecentlyViewed: undefined;
+  EditProfile: undefined;
 };

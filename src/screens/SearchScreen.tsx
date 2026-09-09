@@ -5,11 +5,11 @@ import {
   StyleSheet,
   TouchableOpacity,
   ScrollView,
-  SafeAreaView,
   StatusBar,
 } from 'react-native';
 import { useNavigation, useRoute, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { RootStackParamList } from '../types/navigation';
 import { Product } from '../types/product';
@@ -38,6 +38,7 @@ type RouteProps = RouteProp<{ params: { initialQuery?: string } }, 'params'>;
 export const SearchScreen: React.FC = () => {
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
   const route = useRoute<RouteProps>();
+  const insets = useSafeAreaInsets();
   const initialQuery = route.params?.initialQuery || '';
 
   const [query, setQuery] = useState(initialQuery);
@@ -140,11 +141,11 @@ export const SearchScreen: React.FC = () => {
   const hasSearched = query.trim().length > 0;
 
   return (
-    <SafeAreaView style={styles.safeArea}>
+    <View style={styles.safeArea}>
       <StatusBar barStyle="dark-content" backgroundColor={COLORS.surface} />
 
       {/* Search Input Bar */}
-      <View style={styles.searchHeader}>
+      <View style={[styles.searchHeader, { paddingTop: insets.top + 8 }]}>
         <Input
           placeholder="Search brands, styles, fabrics..."
           value={query}
@@ -270,7 +271,7 @@ export const SearchScreen: React.FC = () => {
           />
         </View>
       )}
-    </SafeAreaView>
+    </View>
   );
 };
 
@@ -283,7 +284,6 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     paddingHorizontal: SPACING.base,
-    paddingTop: 8,
     paddingBottom: 8,
     backgroundColor: COLORS.surface,
     borderBottomWidth: 1,

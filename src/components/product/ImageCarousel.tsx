@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import {
   View,
-  Image,
   FlatList,
   StyleSheet,
   Dimensions,
   NativeSyntheticEvent,
   NativeScrollEvent,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { COLORS, RADIUS, SPACING } from '../../constants/theme';
 
 interface ImageCarouselProps {
@@ -38,7 +38,7 @@ export const ImageCarousel: React.FC<ImageCarouselProps> = ({ images }) => {
         keyExtractor={(_, index) => `img_${index}`}
         renderItem={({ item }) => (
           <View style={styles.imageSlide}>
-            <Image source={{ uri: item }} style={styles.image} resizeMode="cover" />
+            <Image source={{ uri: item }} style={styles.image} contentFit="cover" transition={300} />
           </View>
         )}
       />

@@ -1,5 +1,6 @@
 import React from 'react';
-import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { Image } from 'expo-image';
 import { Ionicons } from '@expo/vector-icons';
 import { CartItem } from '../../types/cart';
 import { COLORS, RADIUS, TYPOGRAPHY, SPACING, SHADOWS } from '../../constants/theme';
@@ -30,7 +31,7 @@ export const CartItemCard: React.FC<CartItemCardProps> = ({
   return (
     <View style={styles.card}>
       <View style={styles.topRow}>
-        <Image source={{ uri: item.product.images[0] }} style={styles.thumbnail} />
+        <Image source={{ uri: item.product.images[0] }} style={styles.thumbnail} contentFit="cover" transition={200} />
 
         <View style={styles.detailsArea}>
           <View style={styles.brandRow}>

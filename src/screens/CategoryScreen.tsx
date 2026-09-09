@@ -2,13 +2,13 @@ import React, { useState, useEffect } from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   TouchableOpacity,
   ScrollView,
-  SafeAreaView,
   StatusBar,
 } from 'react-native';
+import { SafeAreaView } from 'react-native-safe-area-context';
+import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../types/navigation';
@@ -96,7 +96,7 @@ export const CategoryScreen: React.FC = () => {
                 onPress={handleExploreAllCategory}
                 activeOpacity={0.9}
               >
-                <Image source={{ uri: activeCategory.imageUrl }} style={styles.heroImage} />
+                <Image source={{ uri: activeCategory.imageUrl }} style={styles.heroImage} contentFit="cover" transition={300} />
                 <View style={styles.heroOverlay}>
                   <Text style={styles.heroTitle}>{activeCategory.name}</Text>
                   <Text style={styles.heroDesc} numberOfLines={2}>
@@ -121,7 +121,7 @@ export const CategoryScreen: React.FC = () => {
                     activeOpacity={0.85}
                   >
                     {sub.imageUrl ? (
-                      <Image source={{ uri: sub.imageUrl }} style={styles.subImage} />
+                      <Image source={{ uri: sub.imageUrl }} style={styles.subImage} contentFit="cover" transition={200} />
                     ) : (
                       <View style={styles.subImagePlaceholder}>
                         <Ionicons name="shirt-outline" size={24} color={COLORS.textMuted} />

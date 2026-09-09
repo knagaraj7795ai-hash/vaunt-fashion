@@ -2,11 +2,11 @@ import React from 'react';
 import {
   View,
   Text,
-  Image,
   StyleSheet,
   ScrollView,
   TouchableOpacity,
 } from 'react-native';
+import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../../types/navigation';
@@ -46,7 +46,7 @@ export const BrandSpotlight: React.FC<BrandSpotlightProps> = ({ brands }) => {
             onPress={() => handleBrandPress(brand)}
             style={styles.brandCard}
           >
-            <Image source={{ uri: brand.logo }} style={styles.brandLogo} />
+            <Image source={{ uri: brand.logo }} style={styles.brandLogo} contentFit="cover" transition={200} />
             <Text style={styles.brandName} numberOfLines={1}>
               {brand.name}
             </Text>

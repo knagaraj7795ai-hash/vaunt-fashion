@@ -5,13 +5,13 @@ import {
   Text,
   StyleSheet,
   TouchableOpacity,
-  SafeAreaView,
   StatusBar,
   Share,
   Alert,
 } from 'react-native';
 import { useRoute, useNavigation, RouteProp } from '@react-navigation/native';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { RootStackParamList } from '../types/navigation';
 import { Product, ProductColor, Review } from '../types/product';
@@ -37,6 +37,7 @@ type RouteProps = RouteProp<RootStackParamList, 'ProductDetails'>;
 export const ProductDetailsScreen: React.FC = () => {
   const route = useRoute<RouteProps>();
   const navigation = useNavigation<NativeStackNavigationProp<RootStackParamList>>();
+  const insets = useSafeAreaInsets();
   const { productId } = route.params;
 
   const { addToCart, isItemInCart } = useCart();
@@ -359,7 +360,7 @@ export const ProductDetailsScreen: React.FC = () => {
       </ScrollView>
 
       {/* Sticky Bottom Action Bar */}
-      <View style={styles.bottomBar}>
+      <View style={[styles.bottomBar, { paddingBottom: Math.max(insets.bottom, 12) }]}>
         <TouchableOpacity
           style={styles.wishlistBarBtn}
           onPress={() => toggleWishlist(product)}
@@ -751,7 +752,7 @@ const styles = StyleSheet.create({
     right: 0,
     backgroundColor: COLORS.surface,
     paddingHorizontal: SPACING.base,
-    paddingVertical: 12,
+    paddingTop: 12,
     flexDirection: 'row',
     alignItems: 'center',
     gap: 10,

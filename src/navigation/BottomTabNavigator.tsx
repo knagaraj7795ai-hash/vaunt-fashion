@@ -1,6 +1,7 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { BottomTabParamList } from '../types/navigation';
 import { HomeScreen } from '../screens/HomeScreen';
 import { CategoryScreen } from '../screens/CategoryScreen';
@@ -14,6 +15,7 @@ const Tab = createBottomTabNavigator<BottomTabParamList>();
 
 export const BottomTabNavigator: React.FC = () => {
   const { totalWishlistCount } = useWishlist();
+  const insets = useSafeAreaInsets();
 
   return (
     <Tab.Navigator
@@ -25,9 +27,8 @@ export const BottomTabNavigator: React.FC = () => {
           backgroundColor: COLORS.surface,
           borderTopColor: COLORS.border,
           borderTopWidth: 1,
-          height: 60,
-          paddingBottom: 8,
           paddingTop: 6,
+          paddingBottom: Math.max(insets.bottom, 8),
         },
         tabBarLabelStyle: {
           ...TYPOGRAPHY.micro,
