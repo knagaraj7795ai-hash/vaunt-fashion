@@ -8,6 +8,7 @@ import {
   TouchableOpacity,
   NativeSyntheticEvent,
   NativeScrollEvent,
+  Platform,
 } from 'react-native';
 import { Image } from 'expo-image';
 import { useNavigation } from '@react-navigation/native';
@@ -20,8 +21,12 @@ interface BannerCarouselProps {
   banners: Banner[];
 }
 
-const { width: SCREEN_WIDTH } = Dimensions.get('window');
-const BANNER_WIDTH = SCREEN_WIDTH - SPACING.base * 2;
+const getMaxWidth = () => {
+  const { width } = Dimensions.get('window');
+  return width;
+};
+
+const BANNER_WIDTH = getMaxWidth() - SPACING.base * 2;
 const BANNER_HEIGHT = BANNER_WIDTH * 0.58;
 
 export const BannerCarousel: React.FC<BannerCarouselProps> = ({ banners }) => {

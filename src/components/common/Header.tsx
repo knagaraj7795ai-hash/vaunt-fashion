@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
   const { selectedAddress } = useAddress();
 
   return (
-    <View style={[styles.container, { paddingTop: insets.top }]}>
+    <View style={[styles.container, { paddingTop: Math.min(insets.top, 8) }]}>
       <View style={styles.leftRow}>
         {showBack ? (
           <TouchableOpacity
@@ -144,49 +144,49 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   brandLogo: {
-    fontSize: 20,
+    fontSize: 22,
     fontWeight: '900',
-    letterSpacing: 2,
+    letterSpacing: 3,
     color: COLORS.primary,
   },
   locationPill: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 3,
-    marginTop: 1,
+    marginTop: 2,
   },
   locationText: {
     ...TYPOGRAPHY.caption,
-    fontSize: 10,
+    fontSize: 11,
     fontWeight: '600',
     color: COLORS.textMuted,
-    maxWidth: 120,
+    maxWidth: 140,
   },
   rightIcons: {
     flexDirection: 'row',
     alignItems: 'center',
-    gap: 12,
+    gap: 16,
     flexShrink: 0,
   },
   iconBtn: {
     position: 'relative',
-    padding: 6,
+    padding: 8,
   },
   badgeContainer: {
     position: 'absolute',
     top: 2,
     right: 2,
     backgroundColor: COLORS.rose,
-    minWidth: 16,
-    height: 16,
-    borderRadius: 8,
+    minWidth: 18,
+    height: 18,
+    borderRadius: 9,
     alignItems: 'center',
     justifyContent: 'center',
-    paddingHorizontal: 3,
+    paddingHorizontal: 4,
   },
   badgeText: {
     color: '#FFFFFF',
-    fontSize: 9,
+    fontSize: 10,
     fontWeight: '800',
   },
 });

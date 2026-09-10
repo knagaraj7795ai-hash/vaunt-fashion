@@ -6,7 +6,6 @@ import {
   ScrollView,
   StatusBar,
   TouchableOpacity,
-  Alert,
   Modal,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -29,16 +28,15 @@ export const ProfileScreen: React.FC = () => {
   const { wishlist } = useWishlist();
 
   const [policyModal, setPolicyModal] = useState<{ title: string; content: string } | null>(null);
+  const [showLogoutConfirm, setShowLogoutConfirm] = useState(false);
 
   const handleLogout = () => {
-    Alert.alert('Logout', 'Are you sure you want to logout?', [
-      { text: 'Cancel', style: 'cancel' },
-      {
-        text: 'Logout',
-        style: 'destructive',
-        onPress: () => logout(),
-      },
-    ]);
+    setShowLogoutConfirm(true);
+  };
+
+  const confirmLogout = async () => {
+    setShowLogoutConfirm(false);
+    await logout();
   };
 
   const openAboutBrand = () => {
@@ -262,6 +260,32 @@ export const ProfileScreen: React.FC = () => {
           </View>
         </Modal>
       )}
+
+      {/* Logout Confirmation Modal */}
+      <Modal visible={showLogoutConfirm} transparent animationType="fade">
+        <View style={styles.modalOverlay}>
+          <View style={styles.policyDialog}>
+            <Text style={styles.dialogTitle}>Logout</Text>
+            <Text style={styles.dialogContent}>Are you sure you want to logout?</Text>
+            <View style={styles.logoutConfirmRow}>
+              <Button
+                title="Cancel"
+                variant="outline"
+                size="md"
+                onPress={() => setShowLogoutConfirm(false)}
+                style={styles.logoutConfirmBtn}
+              />
+              <Button
+                title="Logout"
+                variant="primary"
+                size="md"
+                onPress={confirmLogout}
+                style={[styles.logoutConfirmBtn, { backgroundColor: COLORS.rose }]}
+              />
+            </View>
+          </View>
+        </View>
+      </Modal>
     </SafeAreaView>
   );
 };
@@ -472,5 +496,13 @@ const styles = StyleSheet.create({
   },
   dialogCloseBtn: {
     width: '100%',
+  },
+  logoutConfirmRow: {
+    flexDirection: 'row',
+    gap: 12,
+    marginTop: 16,
+  },
+  logoutConfirmBtn: {
+    flex: 1,
   },
 });

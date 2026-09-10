@@ -10,6 +10,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.vaunt.fashion",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -19,12 +20,29 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single",
+      "name": "VAUNT Fashion",
+      "shortName": "VAUNT",
+      "description": "VAUNT Fashion - Shop the latest trends",
+      "backgroundColor": "#FFFFFF",
+      "themeColor": "#000000",
+      "display": "standalone",
+      "orientation": "portrait",
+      "startUrl": "/",
+      "icon": "./assets/icon.png"
     },
     "plugins": [
       "expo-image",
       "expo-splash-screen",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f4024a35-c591-42df-98f2-b97be8f143bf"
+      }
+    },
+    "owner": "knagaraja_7795"
   }
 }
